@@ -1,0 +1,17 @@
+.Judul{
+    text-align: center;
+}
+table,tr,th, td{
+    border: 1px solid;
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+th{
+    background-color: #2ba3e9;
+  }
+.Catatan{
+    
+    background-color: rgb(223, 133, 133);
+}
